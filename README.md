@@ -1,0 +1,2 @@
+# notlar
+javascript türkçe notlar
